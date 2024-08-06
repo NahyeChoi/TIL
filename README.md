@@ -1,2 +1,3 @@
 # TIL
-Today I Learned. 
+### 🖋 Today I Learned. 
+- (2024.08.07~)
